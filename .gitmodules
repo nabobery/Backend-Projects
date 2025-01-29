@@ -1,0 +1,6 @@
+[submodule "task-tracker"]
+	path = task-tracker
+	url = https://github.com/nabobery/Task-Tracker
+[submodule "github-user-activity"]
+	path = github-user-activity
+	url = https://github.com/nabobery/GitHub-User-Activity
