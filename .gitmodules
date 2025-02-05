@@ -4,3 +4,18 @@
 [submodule "github-user-activity"]
 	path = github-user-activity
 	url = https://github.com/nabobery/GitHub-User-Activity
+[submodule "expense-tracker"]
+	path = expense-tracker
+	url = https://github.com/nabobery/Expense-Tracker
+[submodule "number-guessing-game"]
+	path = number-guessing-game
+	url = https://github.com/nabobery/number-guessing-game.git
+[submodule "weather-api"]
+	path = weather-api
+	url = https://github.com/nabobery/weather-api.git
+[submodule "blogging-platform-api"]
+	path = blogging-platform-api
+	url = https://github.com/nabobery/blogging-platform-api
+[submodule "todo-list-api"]
+	path = todo-list-api
+	url = https://github.com/nabobery/todo-list-api.git
