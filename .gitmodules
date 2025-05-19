@@ -19,3 +19,12 @@
 [submodule "todo-list-api"]
 	path = todo-list-api
 	url = https://github.com/nabobery/todo-list-api.git
+[submodule "caching-proxy"]
+	path = caching-proxy
+	url = https://github.com/nabobery/caching-proxy.git
+[submodule "url-shortening-service"]
+	path = url-shortening-service
+	url = https://github.com/nabobery/url-shortening-service
+[submodule "markdown-note-taking-app"]
+	path = markdown-note-taking-app
+	url = https://github.com/nabobery/markdown-note-taking-app.git
